@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<body topmargin="50">
+<body leftmargin="50">
+<h1>What are the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years?</h1>
+<h2>Emily Linderman</h2>
+<img class="percent" src=percent.png style="width: 75%">
+  </body>
+  </html>
